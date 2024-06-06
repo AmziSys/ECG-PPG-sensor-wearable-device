@@ -8,4 +8,5 @@ The idea is to design a wearable device including:
  - Microcontroller ()
  - PPG LEDs and photodiodes
  - other components...
-   
+
+For confidentiality reasons, design files cannot be shared!

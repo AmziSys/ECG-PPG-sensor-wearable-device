@@ -11,17 +11,17 @@ In other words, ECG is a measurement of the electrical activity of the heart, us
 
 
 * The project is divided into two parts:
-  + The sensor board, that includes:
+  + The sensor board, which includes:
     - MAX86178 ship (ECG and PPG sensor)
     - Microcontroller ()
     - PPG LEDs and photodiodes
     - Electrodes
     - LDO, oscillator, Connectors 
     - other components...
- + The MCU board, that includes:
+ + The MCU board, which includes:
     - The microcontroller
-    - LDO, ESD, USB and Oscillator
-    - LEDs, buttons and connectors...
+    - LDO, ESD, USB, and Oscillator
+    - LEDs, buttons, connectors...
 
 The software used is Altium
 
